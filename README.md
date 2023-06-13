@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Jackie (she/her/hers)! I am a recent graduate from UC Berkeley. I studied data science, with an emphasis / concentration in economics. I'm currently an incoming software engineer at JP Morgan Chase and Co. 
+
+Welcome to my github! It's great to meet you :) 
+
+Feel free to reach me at my email --> jackieyu23@berkeley(dot)com
